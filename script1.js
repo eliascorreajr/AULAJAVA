@@ -37,5 +37,13 @@ var valor_string = prompt("Insira um numero");
 var valor_numerico = parseInt(valor_string);
 
 console.log(valor_numerico);
-    
+
+/*
+var num1 = prompt("Insira um numero");
+var num2 = prompt("Insira um segundo numero");
+
+var resultado = parseInt(num1) + parseInt(num2);
+
+console.log(resultado)
+*/    
 
